@@ -108,9 +108,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:039461_0000_1015C05F133140F8"/>
-            <pb facs="tcp:039461_0001_1015BB0B96898800"/>
-            <pb facs="tcp:039461_0001_1015BB0B96898800"/>
+            <pb facs="unknown:039461_0000_1015C05F133140F8"/>
+            <pb facs="unknown:039461_0001_1015BB0B96898800"/>
+            <pb facs="unknown:039461_0001_1015BB0B96898800"/>
             <p>THE Engliſh Phyſician. CONTAINING, Admirable and Approved REMEDIES For ſeveral of the moſt uſual DISEASES. <hi>Fitted to the meaneſt Capacity,</hi>
             </p>
             <p>By <hi>N. Culpepper,</hi> Doctor of Phyſick.</p>
@@ -121,7 +121,7 @@
       </front>
       <body>
          <div type="to_the_reader">
-            <pb facs="tcp:039461_0006_1015C03172A9E8E0"/>
+            <pb facs="unknown:039461_0006_1015C03172A9E8E0"/>
             <head>TO THE Reader.</head>
             <p>
                <hi>I Have here made Publick to <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -149,7 +149,7 @@
             </closer>
          </div>
          <div type="medical_text">
-            <pb n="1" facs="tcp:039461_0006_1015C03172A9E8E0"/>
+            <pb n="1" facs="unknown:039461_0006_1015C03172A9E8E0"/>
             <head>THE Engliſh PHYSICIAN.</head>
             <div type="malady">
                <head>Aches, and Lameneſs in the Body, Joy<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -164,7 +164,7 @@
                      </gap> Pipkin, <gap reason="illegible" resp="#AELD" extent="5 letters">
                         <desc>•••••</desc>
                      </gap>ing all well together; then pour out all into a Baſon, or Pan of Water; then anoint thy Hands
-<pb n="2" facs="tcp:039461_0011_1015C03D32B454D8"/>
+<pb n="2" facs="unknown:039461_0011_1015C03D32B454D8"/>
 with Butter, and make thy Plaiſt or Searcloth into Rolls.</p>
                </div>
                <div type="remedy">
@@ -197,7 +197,7 @@ with Butter, and make thy Plaiſt or Searcloth into Rolls.</p>
                   <p>Take the Juice of Sage, Aqua Vi<g ref="char:EOLhyphen"/>tae, the Oyl of Bays, Vinegar, Muſtard, and of an Ox<gap reason="illegible" resp="#AELD" extent="2 letters">
                         <desc>••</desc>
                      </gap> Gall, of each a like quantity, put them all together in a large Ox Bladder. Tye it faſt, and chafe it up and down with your hand,
-<pb n="3" facs="tcp:039461_0011_1015C03D32B454D8"/>
+<pb n="3" facs="unknown:039461_0011_1015C03D32B454D8"/>
 during one hour &amp; half, then keep it for your Uſe, &amp; anoint the griev'd part Morning and Evening.</p>
                </div>
                <div type="remedy">
@@ -211,7 +211,7 @@ during one hour &amp; half, then keep it for your Uſe, &amp; anoint the griev'd
                   <p>Oyl of Amber, Oyl of Turpentine, Oyl of Foxes, Oyl of Exceſter, and Oyl of Chamomil, of each a like quan<g ref="char:EOLhyphen"/>tity, and mix it with ſome Brandy.</p>
                   <p>And if his Pains and Aches fall out to be moſt painful in the Night (as many times they do.)</p>
                   <p>Then at Night let him take this Potion, Syrrup of Poppy, 3 Drachms; Syrrup of Betony. one Drachm and a
-<pb n="4" facs="tcp:039461_0016_1015C0491F270D48"/>
+<pb n="4" facs="unknown:039461_0016_1015C0491F270D48"/>
 half; Waters of Bugloſs and Sage, of each an Ounce, mix them well to<g ref="char:EOLhyphen"/>gether.</p>
                </div>
                <div type="remedy">
@@ -245,7 +245,7 @@ half; Waters of Bugloſs and Sage, of each an Ounce, mix them well to<g ref="cha
                   <p>Take Sage, ſweet Marjoram, Roſe<g ref="char:EOLhyphen"/>mary, Time, Chamomil, Hyſop, Fever few, Lavender, Balm, Mint, Worm<g ref="char:EOLhyphen"/>wood, Rue, Winter Savory, and Bays of each a handful, beat them together to a Maſs very well in a ſtone Mortar, then ſtrain out the Juice and put it in a double Glaſs, the which ſtop well, and pa<gap reason="illegible" resp="#AELD" extent="2 letters">
                         <desc>••</desc>
                      </gap>e it all over with Dough, and ſet it in an Oven with Houſhold Bread,
-<pb n="5" facs="tcp:039461_0016_1015C0491F270D48"/>
+<pb n="5" facs="unknown:039461_0016_1015C0491F270D48"/>
 and when it is drawn break off all the Paſt, and if the Juice be thick break the Glaſs, and put the Juice into a Galls-pot: And when you uſe it, take the quantity of 2 Spoonfuls of it, and put to it as much of the Marrow of an Ox Leg, melt them together, ſtir them well, and add to it a little Bran<g ref="char:EOLhyphen"/>dy; and Morning and Evening anoint well before a Fire the Child's Arms, Sides, Thighs, Leggs, Knees, Feet &amp; Joints, bathing it well in with a warm Hand. Then give it ſome Syrup of Rheubarb (to open the Obſtructions of the Liver) and mingle it with two ounces of Mint-water, mix it well, and give it the Child faſting. This will mightily ſtrengthen the Limbs, and make the Child to ſtand &amp; go. <hi>Pro<g ref="char:EOLhyphen"/>bat.</hi>
                   </p>
                </div>
@@ -254,7 +254,7 @@ and when it is drawn break off all the Paſt, and if the Juice be thick break th
                   <p>TAke of the beſt Aqua-vitae well rectified from Phlegm one Pint Oyl of Vitriol one Spoonful, mix the<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap> and let him drink thereof one Spoon<g ref="char:EOLhyphen"/>ful
-<pb n="6" facs="tcp:039461_0021_1015C055AA804790"/>
+<pb n="6" facs="unknown:039461_0021_1015C055AA804790"/>
 firſt in the Morning, and another laſt at Night.</p>
                   <p>Then let him Sweat in a Sto<gap reason="illegible" resp="#AELD" extent="2 letters">
                         <desc>••</desc>
@@ -284,7 +284,7 @@ firſt in the Morning, and another laſt at Night.</p>
                   </p>
                </div>
                <div type="remedy">
-                  <pb n="7" facs="tcp:039461_0021_1015C055AA804790"/>
+                  <pb n="7" facs="unknown:039461_0021_1015C055AA804790"/>
                   <head>Againſt an Ague.</head>
                   <p>Take a Pint of Milk, ſet it on the Fire, and when it boyls put in a pint of Ale, take off the Curd, then put into it nine heads of Cardius, then boyl it till half be waſted, then to every quarter of a pint put in a good Spoonful of Wheat-flower &amp; a quarter of a Spoon<g ref="char:EOLhyphen"/>ful of groſs Pepper, ſtir it well, and take that half Pint an Hour be<g ref="char:EOLhyphen"/>fore the Fit cometh, and be ſure to Sweat him in his Bed upon the taking of it.</p>
                </div>
@@ -299,7 +299,7 @@ firſt in the Morning, and another laſt at Night.</p>
                   <p>Take(at the coming of the cold Fit) half a pint of the diſtilled water of Germander: It helpeth aſſuredly; for Germander is ſtyled by Phyſicians, the Scourge of a Fever.</p>
                </div>
                <div type="remedy">
-                  <pb n="8" facs="tcp:039461_0026_1015C062D18C5EE0"/>
+                  <pb n="8" facs="unknown:039461_0026_1015C062D18C5EE0"/>
                   <head>Againſt all burning and peſtilent<gap reason="illegible" resp="#AELD" extent="2 letters">
                         <desc>••</desc>
                      </gap> Fevers.</head>
@@ -326,7 +326,7 @@ firſt in the Morning, and another laſt at Night.</p>
                   <p>And for his ordinary Drink, when he is Thirſty, let him uſe this Excel<g ref="char:EOLhyphen"/>lent Julep. Take White-wine Vinegar half a pint, Roſe-water 1 pint, Conduit or Fountain-water, 1 Pint; Seethe them together with a Pound of Sugar.</p>
                </div>
                <div type="remedy">
-                  <pb n="9" facs="tcp:039461_0026_1015C062D18C5EE0"/>
+                  <pb n="9" facs="unknown:039461_0026_1015C062D18C5EE0"/>
                   <head>Phlebotomy.</head>
                   <p>If the Sick be high Couloured, then let him Blood as a chief Remedy; if no Spots appear in his <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -356,7 +356,7 @@ firſt in the Morning, and another laſt at Night.</p>
                <div type="remedy">
                   <head>His Diet.</head>
                   <p>His Diet muſt be Broths of Chick<g ref="char:EOLhyphen"/>ens, Knuckles of Mutton or Veal; but
-<pb n="10" facs="tcp:039461_0031_1015C06E92435AA0"/>
+<pb n="10" facs="unknown:039461_0031_1015C06E92435AA0"/>
 no Fleſh, for that increaſeth <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> feedeth the Fever.</p>
@@ -392,7 +392,7 @@ no Fleſh, for that increaſeth <gap reason="illegible" resp="#AELD" extent="1 w
                   <p>Take what quantity of Prunes y<gap reason="illegible" resp="#AELD" extent="2 letters">
                         <desc>••</desc>
                      </gap> pleaſe, bruſe them and diſtill them, and keep the Diſtillation in a great Glaſs, with a Tap in it at the bottom; then take four ounces of Prune-water, Juice of Oranges, Syrup of Gilli-flow<g ref="char:EOLhyphen"/>ers
-<pb n="11" facs="tcp:039461_0031_1015C06E92435AA0"/>
+<pb n="11" facs="unknown:039461_0031_1015C06E92435AA0"/>
 two ounces, a few drops of Spirit of Vitriol; mix them, and let the Pa<g ref="char:EOLhyphen"/>tient drink two or three ſpoonfuls at a time often.</p>
                   <p>Note, <hi>That all Volatile Salts of Rue, Sage, Marjoram, Roſemary, and the like being drunk in Wine, and Sweat upon it, cures all Feavers.</hi> Van. Helmont<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
@@ -404,7 +404,7 @@ two ounces, a few drops of Spirit of Vitriol; mix them, and let the Pa<g ref="ch
                <div type="remedy">
                   <head>To ſtrengthen the Heart in all Fevers mightily.</head>
                   <p>Take of the dryed Leaves of Mary-gold-flowers, beat them to powder, then take Turpentine and Roſin each a like quantity; then put them into an equal quantity of fine Hogs Lard, and incorporate them well together over the Fire, then ſpread thereof on a ſhield plaiſter of Leather, and lay it
-<pb n="12" facs="tcp:039461_0002_1015BB0E033503B0"/>
+<pb n="12" facs="unknown:039461_0002_1015BB0E033503B0"/>
 on the Breaſt over the Heart, and <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> will ſtrengthen the heart unſpeak<gap reason="illegible" resp="#AELD" extent="2 letters">
@@ -446,7 +446,7 @@ on the Breaſt over the Heart, and <gap reason="illegible" resp="#AELD" extent="
                   </p>
                </div>
                <div type="remedy">
-                  <pb n="13" facs="tcp:039461_0002_1015BB0E033503B0"/>
+                  <pb n="13" facs="unknown:039461_0002_1015BB0E033503B0"/>
                   <head>Againſt all Fluxes in Men and Wo<g ref="char:EOLhyphen"/>men.</head>
                   <p>Take Syrup of Roſes, and Syrup of Mints, 1 ounce of each, Bole Armoni<g ref="char:EOLhyphen"/>ack in Powder 1 Drachm, incorpo<g ref="char:EOLhyphen"/>rate them in red Wine, make a Potion and drink it off.</p>
                </div>
@@ -466,7 +466,7 @@ on the Breaſt over the Heart, and <gap reason="illegible" resp="#AELD" extent="
                   <p>If it come by ſome ſharp Humour gnawing the Veins, then the Blood comes by little and little, and the Reins are pained.</p>
                   <p>If the Blood appear red of Colour, and white Water flows with it, then the Blood is ſound.</p>
                   <p>
-                     <pb n="14" facs="tcp:039461_0007_1015C033108C2908"/>
+                     <pb n="14" facs="unknown:039461_0007_1015C033108C2908"/>
 If bubling Blood iſſue, the Stomach <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> the Party is Diſeaſed.</p>
@@ -506,7 +506,7 @@ If bubling Blood iſſue, the Stomach <gap reason="illegible" resp="#AELD" exten
                <div type="remedy">
                   <head>Againſt ſpitting &amp; vomiting of Blood.</head>
                   <p>Take of the Seed of St. John's Wort, with its Herb and Flowers, and boil them in White-wine, and drink of
-<pb n="15" facs="tcp:039461_0007_1015C033108C2908"/>
+<pb n="15" facs="unknown:039461_0007_1015C033108C2908"/>
 the Decoction (being ſtrained) it helpeth, tho' it come by Bruiſes, Falls, breaking a Vein, or howſoever.</p>
                </div>
                <div type="remedy">
@@ -532,7 +532,7 @@ the Decoction (being ſtrained) it helpeth, tho' it come by Bruiſes, Falls, bre
                         <desc>•</desc>
                      </gap>dure.</head>
                   <p>Take one pint and a half of new Milk, boil it to a pint with a handful of red Roſe Leaves in it, then ſweeten it with powdred Sugar, and give it up
-<pb n="16" facs="tcp:039461_0012_1015C03F62351C50"/>
+<pb n="16" facs="unknown:039461_0012_1015C03F62351C50"/>
 into the party, and let him keep it; long as he can.</p>
                </div>
             </div>
@@ -572,7 +572,7 @@ into the party, and let him keep it; long as he can.</p>
                      </gap> alſo, againſt all Diſtillations from th<gap reason="illegible" resp="#AELD" extent="2 letters">
                         <desc>••</desc>
                      </gap>
-                     <pb n="17" facs="tcp:039461_0012_1015C03F62351C50"/>
+                     <pb n="17" facs="unknown:039461_0012_1015C03F62351C50"/>
 Head, and all manner of Fluxes in Men and Women.</p>
                </div>
                <div type="remedy">
@@ -590,7 +590,7 @@ Head, and all manner of Fluxes in Men and Women.</p>
                <div type="remedy">
                   <head>Againſt Gripings &amp; Wind in the Guts.</head>
                   <p>Take Oyl of Ivy one Drachm in a
-<pb n="18" facs="tcp:039461_0017_1015C04B8352CCB0"/>
+<pb n="18" facs="unknown:039461_0017_1015C04B8352CCB0"/>
 Cup of Wine mixt, &amp; drink it Faſ<gap reason="illegible" resp="#AELD" extent="3 letters">
                         <desc>•••</desc>
                      </gap> doth the Work.</p>
@@ -622,7 +622,7 @@ Cup of Wine mixt, &amp; drink it Faſ<gap reason="illegible" resp="#AELD" extent
                   <p>Take of Saffron in Powder 1 Scru<g ref="char:EOLhyphen"/>ple, of Musk in Powder 1 Grain, give them in Wine.</p>
                </div>
                <div type="remedy">
-                  <pb n="19" facs="tcp:039461_0017_1015C04B8352CCB0"/>
+                  <pb n="19" facs="unknown:039461_0017_1015C04B8352CCB0"/>
                   <head>For the ſame.</head>
                   <p>Take ſweet Marjoram and boil it well in Water, and drink of the De<g ref="char:EOLhyphen"/>coction firſt and laſt, and at other times. This helps all diſeaſes of the Cheſt &amp; will make you breathe freely.</p>
                </div>
@@ -645,7 +645,7 @@ Cup of Wine mixt, &amp; drink it Faſ<gap reason="illegible" resp="#AELD" extent
                <div type="remedy">
                   <head>A Pulteſs for a ſore Breaſt.</head>
                   <p>TAke new Milk and grate white bread into it, then take Mallows
-<pb n="20" facs="tcp:039461_0022_1015C059D60F4EF0"/>
+<pb n="20" facs="unknown:039461_0022_1015C059D60F4EF0"/>
 and red Roſe Leaves 1 handful of each then chop them ſmall, and boyl the<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap> together till it be thick, then put <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -681,7 +681,7 @@ and red Roſe Leaves 1 handful of each then chop them ſmall, and boyl the<gap r
                <div type="remedy">
                   <head>To Heal an Inflammation in the Breaſts.</head>
                   <p>Take the whites of two Eggs, and two handfuls of Houſleek, let the Egg
-<pb n="21" facs="tcp:039461_0022_1015C059D60F4EF0"/>
+<pb n="21" facs="unknown:039461_0022_1015C059D60F4EF0"/>
 be firſt well beaten, then ſtamp them both together and apply it.</p>
                </div>
                <div type="remedy">
@@ -703,7 +703,7 @@ be firſt well beaten, then ſtamp them both together and apply it.</p>
                         <desc>•</desc>
                      </gap>k, and coldneſs and weakneſs in the Reins, and want of an Appetite to a Woman.</head>
                   <p>TAke Parſnip Roots, as many as you pleaſe, let them be fair and
-<pb n="22" facs="tcp:039461_0027_1015C064EE8F1910"/>
+<pb n="22" facs="unknown:039461_0027_1015C064EE8F1910"/>
 great, cut away the tops, then <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> them into an Earthen P<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -753,7 +753,7 @@ great, cut away the tops, then <gap reason="illegible" resp="#AELD" extent="1 wo
                      </gap> in a Porringer; then take four Spoon<g ref="char:EOLhyphen"/>fuls of White-wine, and two Spoon<g ref="char:EOLhyphen"/>fuls of red Roſe-water, one Penny-worth of Sugar-candy in powder, m<gap reason="illegible" resp="#AELD" extent="3 letters">
                         <desc>•••</desc>
                      </gap> them well with the beaten Egg, and
-<pb n="23" facs="tcp:039461_0027_1015C064EE8F1910"/>
+<pb n="23" facs="unknown:039461_0027_1015C064EE8F1910"/>
 drink it up faſting: as much at Night will not hurt you.</p>
                </div>
                <div type="remedy">
@@ -779,7 +779,7 @@ drink it up faſting: as much at Night will not hurt you.</p>
                <div type="remedy">
                   <head>To take away black &amp; blew Spots, coming of stripes and bruiſes.</head>
                   <p>TAke Rheubarb and boyl it in Wine, and bathe the part, or
-<pb n="24" facs="tcp:039461_0032_1015C070D9771AA0"/>
+<pb n="24" facs="unknown:039461_0032_1015C070D9771AA0"/>
 anoint the place with Oyl, when Rheubarb hath been boyled.</p>
                </div>
                <div type="remedy">
@@ -826,7 +826,7 @@ anoint the place with Oyl, when Rheubarb hath been boyled.</p>
                      </gap> it and apply it. This good alſo againſt all Inflammation coming of heat.</p>
                </div>
                <div type="remedy">
-                  <pb n="25" facs="tcp:039461_0032_1015C070D9771AA0"/>
+                  <pb n="25" facs="unknown:039461_0032_1015C070D9771AA0"/>
                   <head>The Vertue of Paracelſus's Styptick Plaiſter.</head>
                   <p>Its Vertues are great &amp; excellent; <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -847,7 +847,7 @@ anoint the place with Oyl, when Rheubarb hath been boyled.</p>
                <div type="remedy">
                   <head>Againſt burning with Gunpowder.</head>
                   <p>TAke the whites of Eggs, and ſtamp and beat them well to<g ref="char:EOLhyphen"/>gether; then wet a Linnen Cloth in
-<pb n="26" facs="tcp:039461_0003_1015BB0F8835B710"/>
+<pb n="26" facs="unknown:039461_0003_1015BB0F8835B710"/>
 the liquid Matter, and lay it the<gap reason="illegible" resp="#AELD" extent="2 letters">
                         <desc>••</desc>
                      </gap> where it is burned, and ſtill wet<g ref="char:punc">▪</g> Cloth there with on the outſide th<gap reason="illegible" resp="#AELD" extent="2 letters">
@@ -896,7 +896,7 @@ the liquid Matter, and lay it the<gap reason="illegible" resp="#AELD" extent="2 
                      </gap> Handfull, Sheeps Suet four Drachms boyl them together to a good thick<g ref="char:EOLhyphen"/>neſs, and put thereto Wax 1 Drachm then ſtrain it, and Plaſter-wiſe apply it to the Grief, twice a Day 'till it be whole, without Scar.</p>
                </div>
                <div type="remedy">
-                  <pb n="27" facs="tcp:039461_0003_1015BB0F8835B710"/>
+                  <pb n="27" facs="unknown:039461_0003_1015BB0F8835B710"/>
                   <head>Another for the ſame.</head>
                   <p>Take of the Juice of Plantain, Houſ<gap reason="illegible" resp="#AELD" extent="3 letters">
                         <desc>•••</desc>
@@ -924,7 +924,7 @@ the liquid Matter, and lay it the<gap reason="illegible" resp="#AELD" extent="2 
                </div>
             </div>
             <div type="malady">
-               <pb n="28" facs="tcp:039461_0008_1015C034D9F4BEB0"/>
+               <pb n="28" facs="unknown:039461_0008_1015C034D9F4BEB0"/>
                <head>Bitings by Mad Dogs, Serpents, &amp;c.</head>
                <div type="remedy">
                   <head>For the Biting of a Mad Dog.</head>
@@ -955,7 +955,7 @@ the liquid Matter, and lay it the<gap reason="illegible" resp="#AELD" extent="2 
                   <p>Take 1 Drachm of the tops of the Stalks and Flowers of great Century beat them into Powder, and drink them in Wine. This is a very good help.</p>
                </div>
                <div type="remedy">
-                  <pb n="29" facs="tcp:039461_0008_1015C034D9F4BEB0"/>
+                  <pb n="29" facs="unknown:039461_0008_1015C034D9F4BEB0"/>
                   <head>Againſt the Stinging of Bees &amp; Waſps.</head>
                   <p>Take of the Leaves of Marſh-mal<g ref="char:EOLhyphen"/>lows, bruiſe them, or rub them on the place, and it will take away the pains, redneſs, and ſwelling.</p>
                </div>
@@ -975,7 +975,7 @@ the liquid Matter, and lay it the<gap reason="illegible" resp="#AELD" extent="2 
                   <p>Take a preſerved Nut<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>ed, and cut
-<pb n="30" facs="tcp:039461_0013_1015C042136FE808"/>
+<pb n="30" facs="unknown:039461_0013_1015C042136FE808"/>
 it in Four Quarters; and eat O<gap reason="illegible" resp="#AELD" extent="2 letters">
                         <desc>••</desc>
                      </gap> Quarter of it at Breakfaſt, and <gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -1027,7 +1027,7 @@ it in Four Quarters; and eat O<gap reason="illegible" resp="#AELD" extent="2 let
                </div>
             </div>
             <div type="malady">
-               <pb n="31" facs="tcp:039461_0013_1015C042136FE808"/>
+               <pb n="31" facs="unknown:039461_0013_1015C042136FE808"/>
                <head>Coughs and ſhort Breathings.</head>
                <div type="remedy">
                   <head>For a Cough of the Lungs.</head>
@@ -1039,7 +1039,7 @@ it in Four Quarters; and eat O<gap reason="illegible" resp="#AELD" extent="2 let
                         <desc>〈◊〉</desc>
                      </gap>.</head>
                   <p>Take 1 pint of pure Engliſh Honey, ſet it over warm Embers in a new glaſed Pipkin, that holds a little more than a Pint, and as the Scum or Froth riſeth ſcum it; then take 2 ounces of red Currants and put it into the Ho<g ref="char:EOLhyphen"/>ney, and let them ſimper together a good while; then put to them two ounces of Powder of Liquorice, as much of Anniſeeds in Powder, one ounce of pulveriz'd Elicampane, and incorporate them well together. Then
-<pb n="32" facs="tcp:039461_0018_1015C04F384A5EB0"/>
+<pb n="32" facs="unknown:039461_0018_1015C04F384A5EB0"/>
 take of it firſt in the Morning, at <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> in the Afternoon, &amp; laſt at Night, <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -1091,7 +1091,7 @@ take of it firſt in the Morning, at <gap reason="illegible" resp="#AELD" extent
                   <p>Take Hyſop Water 6 Ounces, re<gap reason="illegible" resp="#AELD" extent="2 letters">
                         <desc>••</desc>
                      </gap>
-                     <pb n="33" facs="tcp:039461_0018_1015C04F384A5EB0"/>
+                     <pb n="33" facs="unknown:039461_0018_1015C04F384A5EB0"/>
 Poppy Water 4 Ounces, 6 Dates, 10 Fig<gap reason="illegible" resp="#AELD" extent="2 letters">
                         <desc>••</desc>
                      </gap>, ſlice them ſmall, 1 handfull of Raiſins of the Sun ſtoned, the weight of a Shilling of the Powder of Liquo<g ref="char:EOLhyphen"/>rice; put theſe into the ſaid Waters, then let them ſtand 5 or 6 Hours up<g ref="char:EOLhyphen"/>on warm Embers, cloſe covered, but not Boil; then ſtrain it forth, and put in as much Sugar of Roſes as will ſweeten it: Drink of this firſt and laſt, and at 4 in the Afternoon, four Ounces at a time.</p>
@@ -1107,7 +1107,7 @@ Poppy Water 4 Ounces, 6 Dates, 10 Fig<gap reason="illegible" resp="#AELD" extent
                <div type="remedy">
                   <head>Another for the ſame, moſt Excellent.</head>
                   <p>Take Hyſop and Rue of each a like quantity; out them and boil them in
-<pb n="34" facs="tcp:039461_0023_1015C05BB69EE130"/>
+<pb n="34" facs="unknown:039461_0023_1015C05BB69EE130"/>
 white Wine; then dulcifie the De<g ref="char:EOLhyphen"/>coction with Honey, &amp; take a D<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>a<gap reason="illegible" resp="#AELD" extent="2 letters">
@@ -1156,7 +1156,7 @@ white Wine; then dulcifie the De<g ref="char:EOLhyphen"/>coction with Honey, &am
                      </gap> ſeaſon it with Sugar, and a little <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>
-                     <pb n="35" facs="tcp:039461_0023_1015C05BB69EE130"/>
+                     <pb n="35" facs="unknown:039461_0023_1015C05BB69EE130"/>
 and Mace; then take a few <gap reason="illegible" resp="#AELD" extent="2 letters">
                         <desc>••</desc>
                      </gap>lanched ſweet Almonds, and ſtamp them, then ſtrain them into the Milk; he eating a Breakfaſt of this cures a Conſumption, &amp; helps Conception.</p>
@@ -1185,7 +1185,7 @@ and Mace; then take a few <gap reason="illegible" resp="#AELD" extent="2 letters
                      </gap>ſtil; all theſe ſo long as any Water <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> come: take of this Water(with
-<pb n="36" facs="tcp:039461_0028_1015C06727C56580"/>
+<pb n="36" facs="unknown:039461_0028_1015C06727C56580"/>
 a little Pepper) a Draught faſting, you will find much good by it.</p>
                </div>
                <div type="remedy">
@@ -1241,7 +1241,7 @@ a little Pepper) a Draught faſting, you will find much good by it.</p>
                      </gap> other) and put therein only the <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>
-                     <pb n="37" facs="tcp:039461_0028_1015C06727C56580"/>
+                     <pb n="37" facs="unknown:039461_0028_1015C06727C56580"/>
                      <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> Fifty Hens Eggs, new laid, beat the Yolks, and mix them well with the Milk and Roſe-water; then Diſtil them, and give of the Water Diſtilled <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -1265,7 +1265,7 @@ a little Pepper) a Draught faſting, you will find much good by it.</p>
                      </gap>d put thereto 1 Pint of red Wine, <gap reason="illegible" resp="#AELD" extent="2 letters">
                         <desc>••</desc>
                      </gap>th the Yolks of 24 Hens Eggs, new
-<pb n="38" facs="tcp:039461_0033_1015C07530D8EDB8"/>
+<pb n="38" facs="unknown:039461_0033_1015C07530D8EDB8"/>
 laid beaten together; then put in <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> much fine white Bread, as ſhall <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -1302,7 +1302,7 @@ laid beaten together; then put in <gap reason="illegible" resp="#AELD" extent="1
                </div>
             </div>
             <div type="malady">
-               <pb n="39" facs="tcp:039461_0033_1015C07530D8EDB8"/>
+               <pb n="39" facs="unknown:039461_0033_1015C07530D8EDB8"/>
                <head>Convulſion and Cramp.</head>
                <div type="remedy">
                   <head>Cramp to cure.</head>
@@ -1329,7 +1329,7 @@ laid beaten together; then put in <gap reason="illegible" resp="#AELD" extent="1
                      </gap> in three Dreſſings.</p>
                </div>
                <div type="remedy">
-                  <pb n="40" facs="tcp:039461_0004_1015C02C01728F48"/>
+                  <pb n="40" facs="unknown:039461_0004_1015C02C01728F48"/>
                   <head>Pills againſt the Convulſion.</head>
                   <p>Take Opoponax, Rue, Serapinum Pepper, of the Juice of Lovage. Myrrh of each 1 Drachm; Powder what is to be powdered, and with the Juice <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -1357,7 +1357,7 @@ laid beaten together; then put in <gap reason="illegible" resp="#AELD" extent="1
                   <p>TAke Pulverized Antimony, and convey it into it, it will kill it.</p>
                </div>
                <div type="remedy">
-                  <pb n="41" facs="tcp:039461_0004_1015C02C01728F48"/>
+                  <pb n="41" facs="unknown:039461_0004_1015C02C01728F48"/>
                   <head>To cure a Canker or Soreneſs in the Mouth moſt wonderful.</head>
                   <p>Take Penny-royal, red Sage, red Fennel Roſemary Tops &amp; Mints, of each a good handful, half a handful of Hyſop: Shred them, and boil them in a quart of white Wine, and thereto put the quantity of 2 Wall-nuts of Roch Allom, and as much Honey as will make it ſweet; then ſtrain it through a fine Cloth, and waſh and gargle the Mouth well, for it will cure it.</p>
                </div>
@@ -1380,7 +1380,7 @@ laid beaten together; then put in <gap reason="illegible" resp="#AELD" extent="1
                      </gap>, <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>
-                     <pb n="42" facs="tcp:039461_0009_1015C037B0DC6858"/>
+                     <pb n="42" facs="unknown:039461_0009_1015C037B0DC6858"/>
 let them dry of themſelves; it will pluck them up by the Roots.</p>
                </div>
                <div type="remedy">
@@ -1407,7 +1407,7 @@ let them dry of themſelves; it will pluck them up by the Roots.</p>
                </div>
             </div>
             <div type="maladies">
-               <pb n="43" facs="tcp:039461_0009_1015C037B0DC6858"/>
+               <pb n="43" facs="unknown:039461_0009_1015C037B0DC6858"/>
                <head>Childrens Infirmities to Cure.</head>
                <div type="remedy">
                   <head>To prevent the Falling Sickneſs, and Convulſions.</head>
@@ -1422,7 +1422,7 @@ let them dry of themſelves; it will pluck them up by the Roots.</p>
                   <p>Take one ſpoonful of Ungent. Po<g ref="char:EOLhyphen"/>puleon, two ſpoonfuls of Oyl of Ro<g ref="char:EOLhyphen"/>ſes, mix them, then before the Fire anoint the Childs bowing places of his Arms, Legs, ſoles of its Feet, Fore-head and Temples, twice a Day, chaſing it well in with a warm Hand.</p>
                </div>
                <div type="remedy">
-                  <pb n="44" facs="tcp:039461_0014_1015C045156E7728"/>
+                  <pb n="44" facs="unknown:039461_0014_1015C045156E7728"/>
                   <head>Againſt Wind and Phlegm.</head>
                   <p>Take Sugar-candy in Powder, and in Saxifrage-water give it in a Spoon often.</p>
                </div>
@@ -1443,7 +1443,7 @@ let them dry of themſelves; it will pluck them up by the Roots.</p>
                <div type="remedy">
                   <head>Against the Cough in Children.</head>
                   <p>Take 1 Ounce of Hogs Greaſe, half an Ounce of Garlick, bruiſe and ſtamp them together, and anoint the Soles of
-<pb n="45" facs="tcp:039461_0014_1015C045156E7728"/>
+<pb n="45" facs="unknown:039461_0014_1015C045156E7728"/>
 the Feet at Night warm, &amp; then bind a Plaiſter thereof on the Soles</p>
                </div>
                <div type="remedy">
@@ -1460,7 +1460,7 @@ the Feet at Night warm, &amp; then bind a Plaiſter thereof on the Soles</p>
                <div type="remedy">
                   <head>For the Colick.</head>
                   <p>TAke of the Electuary of Bay<g ref="char:EOLhyphen"/>berries one Drachm, Oyl of Amber 6 drops, Oyl of An<g ref="char:EOLhyphen"/>niſeed 8 drops, Oyl of Vitriol half a Scruple; mix them, and make a Bolus,
-<pb n="46" facs="tcp:039461_0019_1015C051885E6520"/>
+<pb n="46" facs="unknown:039461_0019_1015C051885E6520"/>
 take it in a Wafer wet in water on the point of a Knife.</p>
                </div>
                <div type="remedy">
@@ -1492,7 +1492,7 @@ take it in a Wafer wet in water on the point of a Knife.</p>
                   <p>Take a Load-ſtone, and lay it to the Navel, &amp; preſently the Grief will ceaſe.</p>
                </div>
                <div type="remedy">
-                  <pb n="47" facs="tcp:039461_0019_1015C051885E6520"/>
+                  <pb n="47" facs="unknown:039461_0019_1015C051885E6520"/>
                   <head>An Electuary for the ſame.</head>
                   <p>Take the beſt Treacle one ounce, Caſtoreum, Long Pepper, of each one ounce and half, Opium one Scruple <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -1510,7 +1510,7 @@ take it in a Wafer wet in water on the point of a Knife.</p>
                         <desc>•</desc>
                      </gap>ur of the Clock in the After<g ref="char:EOLhyphen"/>noon, and two Hours after drink a Draught of Mace Ale.</head>
                   <p>Take a pint of Milk, make it into clear Poſſet-Drink with a Quart of Beer; then take off the Curd; then put in the Poſſet-Drink, Anniſeed, and ſweet Fennel-ſeed, of each 2 Ounces; boil theſe to half a Pint or more, then ſtrain it out hard, and diſ<g ref="char:EOLhyphen"/>ſolve in it 2 Ounces of brown Sugar
-<pb n="48" facs="tcp:039461_0024_1015C05D55689740"/>
+<pb n="48" facs="unknown:039461_0024_1015C05D55689740"/>
 Candy, and a little Bay-Salt, with two Spoonfuls of Oyl Olive, &amp; put it up.</p>
                </div>
                <div type="remedy">
@@ -1540,7 +1540,7 @@ Candy, and a little Bay-Salt, with two Spoonfuls of Oyl Olive, &amp; put it up.<
                         <desc>•••</desc>
                      </gap>. Belly twice a Day: If you anoint the Stomach, it will cauſe to Vomit, if the Belly then it Purgeth by Stool, and emptieth the Belly of much Water.</p>
                   <p>
-                     <pb n="49" facs="tcp:039461_0024_1015C05D55689740"/>
+                     <pb n="49" facs="unknown:039461_0024_1015C05D55689740"/>
                      <hi>Note,</hi> That before every anointing, you muſt rub the Belly well with a dry Cloth that is pretty courſe.</p>
                </div>
                <div type="remedy">
@@ -1558,7 +1558,7 @@ Candy, and a little Bay-Salt, with two Spoonfuls of Oyl Olive, &amp; put it up.<
                </div>
             </div>
             <div type="malady">
-               <pb n="50" facs="tcp:039461_0029_1015C06958A956D8"/>
+               <pb n="50" facs="unknown:039461_0029_1015C06958A956D8"/>
                <head>Ears, Noiſe and Deafneſs.</head>
                <div type="remedy">
                   <head>Againſt Noiſe and Singing in the Ears.</head>
@@ -1573,7 +1573,7 @@ Candy, and a little Bay-Salt, with two Spoonfuls of Oyl Olive, &amp; put it up.<
                   <p>Take Oyl of Caſtor, Oyl of Roſes, Oyl of ſweet Almonds, of each 1 Ounce; mingle them with a little quantity of Aqua Vitae, boil them to the Conſumption of the Aqua Vitae, and put 3 or 4 drops in the Ear to Bed-ward, and ſtop it with Cotton and a grain of Musk.</p>
                </div>
                <div type="remedy">
-                  <pb n="51" facs="tcp:039461_0029_1015C06958A956D8"/>
+                  <pb n="51" facs="unknown:039461_0029_1015C06958A956D8"/>
                   <head>To get an Ear-wig, or other Worm out of the Ear.</head>
                   <p>Take the Juice of Wormwood Rue, and Southernwood, of each alike, mingle them well, whereof put ſome into the Ear, and bind a Plaſter of the ſaid ſtamped Herbs to the Ear. This will kill it in five Nights.</p>
                </div>
@@ -1593,7 +1593,7 @@ Candy, and a little Bay-Salt, with two Spoonfuls of Oyl Olive, &amp; put it up.<
                      </gap>, eat it as Salt with your meat.</p>
                </div>
                <div type="remedy">
-                  <pb n="52" facs="tcp:039461_0034_1015C0788DF19868"/>
+                  <pb n="52" facs="unknown:039461_0034_1015C0788DF19868"/>
                   <head>To help Digeſtion.</head>
                   <p>Take half a drachm of the dryed Root of Lovage in fine Powder in wine often; it doth wonderfully warm a cold Stomach, helpeth Digeſtion, and conſumes ſuperfluous Moiſture there, eaſeth inward Gripings, expelleth Wind, &amp; reſiſteth Infection.</p>
                </div>
@@ -1608,7 +1608,7 @@ Candy, and a little Bay-Salt, with two Spoonfuls of Oyl Olive, &amp; put it up.<
                <div type="remedy">
                   <head>To take away all ſpots in the Eyes, and ſuperfluous Water.</head>
                   <p>TAke of clear Antimony to grains, red Roſe water 3 ounces, mix
-<pb n="53" facs="tcp:039461_0034_1015C0788DF19868"/>
+<pb n="53" facs="unknown:039461_0034_1015C0788DF19868"/>
 them together, and let them ſtand 24. Hours, then drop 4 or 5 drops of the cleareſt into the Eyes twice a day.</p>
                </div>
                <div type="remedy">
@@ -1630,7 +1630,7 @@ them together, and let them ſtand 24. Hours, then drop 4 or 5 drops of the clea
                   <p>Take Fennel, Vervain, Roſes, <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>
-                     <pb n="54" facs="tcp:039461_0005_1015C02F0C7BC918"/>
+                     <pb n="54" facs="unknown:039461_0005_1015C02F0C7BC918"/>
                      <gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>andine, and Rue, of each 2 ounces: diſtil them, and waſh thy Eyes there<g ref="char:EOLhyphen"/>with twice a Day.</p>
@@ -1653,7 +1653,7 @@ them together, and let them ſtand 24. Hours, then drop 4 or 5 drops of the clea
                      </gap> hard, keep it cloſe, and waſh with a Feather twice a Day.</p>
                </div>
                <div type="remedy">
-                  <pb n="55" facs="tcp:039461_0005_1015C02F0C7BC918"/>
+                  <pb n="55" facs="unknown:039461_0005_1015C02F0C7BC918"/>
                   <head>For a Weſt on the Eye-lid, that darkens the Sight.</head>
                   <p>Take the Juice of Fenel, and waſh it therewith, and drop thereof 3 drops into the Eye, twice a day<g ref="char:punc">▪</g> It will take away the Weſt immediately, and re<g ref="char:EOLhyphen"/>ſtore the ſight.</p>
                </div>
@@ -1664,7 +1664,7 @@ them together, and let them ſtand 24. Hours, then drop 4 or 5 drops of the clea
                <div type="remedy">
                   <head>To deſtroy a Pin and Web in the Eye.</head>
                   <p>Take of Spirit of Vitriol 1 drop, drop it into the white of an Egg hard roaſted, and it will turn it into Water,
-<pb n="56" facs="tcp:039461_0010_1015C03BA8172F00"/>
+<pb n="56" facs="unknown:039461_0010_1015C03BA8172F00"/>
 of which water drop into thine Eyes Morning, Noon, and at Night.</p>
                </div>
                <div type="remedy">
@@ -1686,7 +1686,7 @@ of which water drop into thine Eyes Morning, Noon, and at Night.</p>
                <div type="remedy">
                   <head>For a Pin, Web, or Perl in the Eye.</head>
                   <p>Take white Ginger, and grind it to Powder on a Whet-ſtone into a fair Baſon, and add to it as much Salt as the Powder, then grind them well to<g ref="char:EOLhyphen"/>gether
-<pb n="57" facs="tcp:039461_0010_1015C03BA8172F00"/>
+<pb n="57" facs="unknown:039461_0010_1015C03BA8172F00"/>
 in the Baſon, and temper them with white Wine; then let them ſtand 24 Hours, then cant off the thin part that lies above into a Glaſs, ſtop it, and going to Bed, with a Feather waſh thy Eyes, and be whole.</p>
                </div>
                <div type="remedy">
@@ -1699,7 +1699,7 @@ in the Baſon, and temper them with white Wine; then let them ſtand 24 Hours, t
                <div type="remedy">
                   <head>Againſt the Falling Sickneſs.</head>
                   <p>TAke of the beſt rectified Aqua Vitae, without Phlegm, one pint, Oyl of Vitriol 1 Spoon<g ref="char:EOLhyphen"/>ful, mix them well together, and let the Patient drink thereof firſt &amp; laſt, and he ſhall be holpen, altho' he have
-<pb n="58" facs="tcp:039461_0015_1015C047946BE7C0"/>
+<pb n="58" facs="unknown:039461_0015_1015C047946BE7C0"/>
 had it 10 Years, and fell every Hour.</p>
                </div>
                <div type="remedy">
@@ -1731,7 +1731,7 @@ had it 10 Years, and fell every Hour.</p>
                <div type="remedy">
                   <head>Against the Falling Evil.</head>
                   <p>Take ſingle Peony Seeds and beat them in a Mortar to powder, take as
-<pb n="59" facs="tcp:039461_0015_1015C047946BE7C0"/>
+<pb n="59" facs="unknown:039461_0015_1015C047946BE7C0"/>
 much of it as will lye on a Shilling<gap reason="illegible" resp="#AELD" extent="4 letters">
                         <desc>••••</desc>
                      </gap> or 4 ſpoonfuls of black Cherry Water, before &amp; after the Full of the Moon, for divers days together Faſting.</p>
@@ -1746,7 +1746,7 @@ much of it as will lye on a Shilling<gap reason="illegible" resp="#AELD" extent=
                <div type="remedy">
                   <head>A perfect way to Cure a Fiſtulaes</head>
                   <p>TAke Alum 2 Pound, as much of white Copperas, beat them to a fine Powder, then put it into an Earth<g ref="char:EOLhyphen"/>en Pan, let them diſſolve to Water
-<pb n="60" facs="tcp:039461_0020_1015C053136ADB10"/>
+<pb n="60" facs="unknown:039461_0020_1015C053136ADB10"/>
 over a quick Fire, then take 6 ounces of Verdigreaſe, 4 drachms of white Mercury, both made into fine powder, then put them into the former wa<g ref="char:EOLhyphen"/>ter. ſtir them well together, and let them boil to a Stone then beat it into powder, and mix with it 6 ounces of Bole Ammoniack made into fine pow<g ref="char:EOLhyphen"/>der, which keep in a Box for your uſe: Then take a gallon of Smiths oldeſt Water, let it boil in a Kettle, and ſ<gap reason="illegible" resp="#AELD" extent="2 letters">
                         <desc>••</desc>
                      </gap>ke in as much of the ſaid powder by little and little, as will lye 6 times on a Shilling, let it boil a w<gap reason="illegible" resp="#AELD" extent="2 letters">
@@ -1760,7 +1760,7 @@ over a quick Fire, then take 6 ounces of Verdigreaſe, 4 drachms of white Mercur
                      </gap> with clean Cloths twice a day, the Water ſtains and poi<g ref="char:EOLhyphen"/>ſons that which drinks it in. This is an abſolute Cute or the Fiſtula, and never fails.</p>
                </div>
                <div type="remedy">
-                  <pb n="61" facs="tcp:039461_0020_1015C053136ADB10"/>
+                  <pb n="61" facs="unknown:039461_0020_1015C053136ADB10"/>
                   <head>To Cure Fiſtulaes, and old Sores and Cankers, moſt admirably.</head>
                   <p>Take Oyl of Vitriol 1 ounce, put it to 3 pound of Saturn filed into 5 parts, and let it be all eaten with the oyl of Vitriol by degrees, one part after another, and when you have a good quantity of it, put it into a Re<g ref="char:EOLhyphen"/>tort, and put in with it 1 pint of white Wine, and diſtil it in Sand twice from the Faeces, and your Medicine is per<g ref="char:EOLhyphen"/>fect.</p>
                </div>
@@ -1774,7 +1774,7 @@ over a quick Fire, then take 6 ounces of Verdigreaſe, 4 drachms of white Mercur
                </div>
             </div>
             <div type="malady">
-               <pb n="62" facs="tcp:039461_0025_1015BB0A077D30C8"/>
+               <pb n="62" facs="unknown:039461_0025_1015BB0A077D30C8"/>
                <head>Fluxes.</head>
                <p>Note, <hi>Venice Treacle is good againſt all Fluxes of the Belly.</hi>
                </p>
@@ -1789,7 +1789,7 @@ over a quick Fire, then take 6 ounces of Verdigreaſe, 4 drachms of white Mercur
                <div type="remedy">
                   <head>A perfect Cure of the Bloody Flux.</head>
                   <p>Take Conſerve of Roſes 1 ounce, Crocus Martis 1 ſcruple; mix them
-<pb n="63" facs="tcp:039461_0025_1015BB0A077D30C8"/>
+<pb n="63" facs="unknown:039461_0025_1015BB0A077D30C8"/>
 well together, and take it on the point of a Knife firſt in the Morning, and Faſt 2 Hours after. It cures tho' it hath been of a long continuance, <hi>Probatum.</hi>
                   </p>
                </div>
@@ -1812,7 +1812,7 @@ well together, and take it on the point of a Knife firſt in the Morning, and Fa
                </div>
             </div>
             <div type="malady">
-               <pb n="64" facs="tcp:039461_0030_1015C06B37B8FFD8"/>
+               <pb n="64" facs="unknown:039461_0030_1015C06B37B8FFD8"/>
                <head>French Pox.</head>
                <div type="remedy">
                   <p>If Buboes appear, then let him not Blood by any means. But no Buboes appear<g ref="char:EOLhyphen"/>ing, then let him Blood in the beginning in the Vein called Hepatica in the right Arm. Then empty the Body by de<g ref="char:EOLhyphen"/>grees of all the Evil Venemous &amp; Ma<g ref="char:EOLhyphen"/>licious Humours, for which none are better than Extractum R<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -1826,7 +1826,7 @@ well together, and take it on the point of a Knife firſt in the Morning, and Fa
                <div type="remedy">
                   <head>Pills to Flux, in the Cure of the French Diſeaſe.</head>
                   <p>TAke Sagapenum diſſolved in white Wine 2 ounces, Salt of Guaicum, Colocynthis, Diagridij, of each of them 1 ounce, Turbith Mine<g ref="char:EOLhyphen"/>rale 10 drachms, Musk 1 ſcruple, Oyl of July-flowers 12 grains; make them into a Maſs; the doſe is from 12 to
-<pb n="65" facs="tcp:039461_0030_1015C06B37B8FFD8"/>
+<pb n="65" facs="unknown:039461_0030_1015C06B37B8FFD8"/>
 20 grains, for ten dayes together in the morning, or until the Patient ſuf<g ref="char:EOLhyphen"/>ficiently doth Flux at the Mouth.</p>
                </div>
                <div type="remedy">
@@ -1840,7 +1840,7 @@ well together, and take it on the point of a Knife firſt in the Morning, and Fa
                <div type="remedy">
                   <head>If Nodes, or Knobs, or Wheals appear, then uſe this.</head>
                   <p>Take Plantain and Roſe Waters of each 1 pint, roch Allom and Sublimate of each 2 drachms, bray the two laſt
-<pb n="66" facs="tcp:039461_0035_1015C07B72C41FD0"/>
+<pb n="66" facs="unknown:039461_0035_1015C07B72C41FD0"/>
 into powder, put them together into a pipkin boyl them till half the water be conſumed, then let it ſettle, and cant off the clear into a glaſs: and when you uſe it, mingle ſome of it with a tripple portion of plantain and roſe water together, and then touch them therewith: And if they be on the face then firſt anoint them with Oyl of Scorpions, or the fat of a Hen.</p>
                </div>
                <div type="remedy">
@@ -1856,7 +1856,7 @@ into powder, put them together into a pipkin boyl them till half the water be co
                   <p>Take Emplaſtr. Paracel<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>, diachylon
-<pb n="67" facs="tcp:039461_0035_1015C07B72C41FD0"/>
+<pb n="67" facs="unknown:039461_0035_1015C07B72C41FD0"/>
 Magnum, flos Ungentorum, diachylon cum gummi, Emplaſtr. Mucilaginis, Emplaſtrum de Melilot, of each alike, then incorporate them together, over a gentle fire, then make plaiſters on ſheeps Leather, and apply it to the Bubo morning and evening warm.</p>
                   <p>And when it is broken, uſe the ſame plaiſter, only add to it in the melting more of <gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
@@ -1868,7 +1868,7 @@ Magnum, flos Ungentorum, diachylon cum gummi, Emplaſtr. Mucilaginis, Emplaſtru
                <div type="remedy">
                   <head>The firſt ſimple Decoction.</head>
                   <p>Take (in Winter) one Pound and a half of Guaicum 18 pints of Water; but in Summer (when it will not keep ſo long) Guaicum 6 ounces, and wa<g ref="char:EOLhyphen"/>ter 6 Pints, in both which the wood muſt be infuſed 12 hours or more Let the water for the infuſion be warm, almoſt ſeething hot, and keep the pot cloſe ſtopped, let the decoction boyl till half be waſted<g ref="char:punc">▪</g> ſo much for the firſt Decoction: always remembring, to ſave the Scum or Froth, for that is
-<pb n="68" facs="tcp:039461_0036_1015C09377223A30"/>
+<pb n="68" facs="unknown:039461_0036_1015C09377223A30"/>
 good to anoint the Puſtules &amp; Scabs.</p>
                </div>
                <div type="remedy">
@@ -1880,7 +1880,7 @@ good to anoint the Puſtules &amp; Scabs.</p>
                         <desc>•</desc>
                      </gap>ed, and fine Bisket, or Bread made of the fineſt Flower.</p>
                   <p>And let him forbear Venery as he tenders his Life, and all chaſing, fret<g ref="char:EOLhyphen"/>ting, and impatiency, for that inflames the Blood, ſtirs up Cholerick Humours,
-<pb n="69" facs="tcp:039461_0036_1015C09377223A30"/>
+<pb n="69" facs="unknown:039461_0036_1015C09377223A30"/>
 and is a great Enemy to the Cure.</p>
                   <p>
                      <hi>N<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -1911,7 +1911,7 @@ and is a great Enemy to the Cure.</p>
                <div type="remedy">
                   <head>To Cure a Swelled Face.</head>
                   <p>TAke wild Crabs, gathered on Midſummer-day, and diſtilled in
-<pb n="70" facs="tcp:039461_0038_1015BB1971E9EC70"/>
+<pb n="70" facs="unknown:039461_0038_1015BB1971E9EC70"/>
 a Limbeck, and with the diſtilled wa<g ref="char:EOLhyphen"/>ter of them, waſh thy Face often, and the intent will follow.<hi>Probatum.</hi>
                   </p>
                </div>
@@ -1925,7 +1925,7 @@ a Limbeck, and with the diſtilled wa<g ref="char:EOLhyphen"/>ter of them, waſh
                <div type="remedy">
                   <head>A rare Secret to preſerve the Beauty of the Face, Neck, Hands, Arms, &amp;c.</head>
                   <p>Take Spaniſh Wine 9 times diſtilled, to every Quart put 2 ounces and half of ſweet Benjamin in Powder; it is made in 12 Hours thus: Waſh your Bottles clean, and let them be well dried; put in your Wine and Benja<g ref="char:EOLhyphen"/>min, and for 2 or 3 Hours ſhake them well together, then let it ſettle, and ſo
-<pb n="71" facs="tcp:039461_0038_1015BB1971E9EC70"/>
+<pb n="71" facs="unknown:039461_0038_1015BB1971E9EC70"/>
                      <gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>ſe it thus; put a Spoonful or two of it into a Baſon of fair water, and it will turn it like Milk, with which waſh; for it is the moſt excellent thing in the world to the purpoſes aforeſaid, and for the rareneſs of the Secret, is com<g ref="char:EOLhyphen"/>monly ſold for 20 <hi>s.</hi> a Pint.</p>
@@ -1944,7 +1944,7 @@ a Limbeck, and with the diſtilled wa<g ref="char:EOLhyphen"/>ter of them, waſh
                <div type="remedy">
                   <head>A marvellous Remedy to Cure the Gout, it never fails.</head>
                   <p>TAke half a pound of unwrought Wax, as much of Roſin, Labda<g ref="char:EOLhyphen"/>num I ounce, Litharge of Gold Four Ounces, White Lead in Powder and
-<pb n="72" facs="tcp:039461_0040_1015BB212411EEB8"/>
+<pb n="72" facs="unknown:039461_0040_1015BB212411EEB8"/>
 ſ<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>arſed 12 Ounces, then take a pint of Neats-foot Oyl, and ſet it over a Fire in a Pot, and mingle it with the Wax and Roſin, and when it is melted, put in all the other Powders, then ſtir it with a Stick as faſt as you can, until dropping a Drop into a Sawcer it ap<g ref="char:EOLhyphen"/>pear hard, then take it from the Fire, anoint ſome clean, even Board, with Neats-foot Oyl, and as ſoon as you can handle it for heat, make it up into Roles, and with Plaſters of Leather made thereof, apply it to the part grieved Morning and Evening, and if it remove, follow it with your Plaſters till it be quite gone.</p>
@@ -1953,7 +1953,7 @@ a Limbeck, and with the diſtilled wa<g ref="char:EOLhyphen"/>ter of them, waſh
                   <head>An excellent Remedy againſt the Gout and the Dropſie.</head>
                   <p>Take Extractum Catholicon, Pil. Hermodac Pil. Arthritic of each three ſcruples, mix them well and make them into Pills as big as a little Pea, take thereof at a times Pills, three mornings together, about three or four of the Clock in the morning. It cures.</p>
                   <p>And for the Dropſie, take the ſame Pills as afore is laſt ſpoken of only ob<g ref="char:EOLhyphen"/>ſerve before you take the Pills, role
-<pb n="73" facs="tcp:039461_0040_1015BB212411EEB8"/>
+<pb n="73" facs="unknown:039461_0040_1015BB212411EEB8"/>
 hard the place grieved, for two or three daies together (or as cauſe re<g ref="char:EOLhyphen"/>quireth) with a Roler wet in Vinegar and Water. Both approved.</p>
                </div>
                <div type="remedy">
@@ -1969,7 +1969,7 @@ hard the place grieved, for two or three daies together (or as cauſe re<g ref="
                   <p>Take Garlick and Houſeleek of each alike quantity, ſtamp them very well together, till they be like a ſalve and plaſter-wiſe apply on a Cloth.</p>
                </div>
                <div type="remedy">
-                  <pb n="74" facs="tcp:039461_0042_1015C0806B020668"/>
+                  <pb n="74" facs="unknown:039461_0042_1015C0806B020668"/>
                   <head>To eaſe any kind of Gout.</head>
                   <p>Take Opopanax and pulp of raiſins of the Sun of each alike quantity, eaſ<g ref="char:EOLhyphen"/>eth any kind of Gout being applyed plaſter wiſe to it.</p>
                </div>
@@ -1990,7 +1990,7 @@ hard the place grieved, for two or three daies together (or as cauſe re<g ref="
                <div type="remedy">
                   <head>For all ſorts of Gouts.</head>
                   <p>Take 1 drachm of the Electuary
-<pb n="75" facs="tcp:039461_0042_1015C0806B020668"/>
+<pb n="75" facs="unknown:039461_0042_1015C0806B020668"/>
 Catholicon going to Bed, and in the Morning drink a good draught of warm poſſet-drink, and then go about your affairs it helps Gouts of all ſorts.</p>
                </div>
                <div type="remedy">
@@ -2005,7 +2005,7 @@ Catholicon going to Bed, and in the Morning drink a good draught of warm poſſe
                   <p>TAKE of Steel in fine powder 1 ounce, fine Sugar beaten ſmall 5 ounces, Mace, Cloves, and Cinnamon, of each 1 Drachm, dry the Sugar &amp; Spices very well by the Fire, then beat them to powder and keep them very dry by the Fire in a Box, that the Steel may not <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>, &amp; keep them well mixt; then take every day Faſting a good ſpoonful of it dry, and
-<pb n="76" facs="tcp:039461_0044_10185C3D49569830"/>
+<pb n="76" facs="unknown:039461_0044_10185C3D49569830"/>
 Walk One Hour or more upon it.</p>
                </div>
                <div type="remedy">
@@ -2019,7 +2019,7 @@ Walk One Hour or more upon it.</p>
                <div type="remedy">
                   <head>Another for the ſame.</head>
                   <p>Take an Orange, and cut off the top of it, then take out a little of the
-<pb n="77" facs="tcp:039461_0044_10185C3D49569830"/>
+<pb n="77" facs="unknown:039461_0044_10185C3D49569830"/>
 meat; then put there in a little Saffron and clap on the top and roſ<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap> it gent<g ref="char:EOLhyphen"/>ly, and when it is roaſted put it pre<g ref="char:EOLhyphen"/>ſently into a pint of white Wine; keep it very cloſe covered, and drink 4 ounces thereof, firſt and laſt.</p>
@@ -2053,7 +2053,7 @@ meat; then put there in a little Saffron and clap on the top and roſ<gap reason
                   </p>
                </div>
                <div type="remedy">
-                  <pb n="78" facs="tcp:039461_0046_10185C38290C4D00"/>
+                  <pb n="78" facs="unknown:039461_0046_10185C38290C4D00"/>
                   <head>Againſt the beating of the Heart.</head>
                   <p>Take the Waters of Borage, Bug<g ref="char:EOLhyphen"/>loſs, and Balm, of each a like quanti<g ref="char:EOLhyphen"/>ty, and put to them as much Oyl of Vi<g ref="char:EOLhyphen"/>triol, as will make them like Verjuice, and drink thereof firſt &amp; laſt a ſpoon<g ref="char:EOLhyphen"/>ful at a time, and this will heal, tho' of a long continuance.</p>
                </div>
@@ -2088,7 +2088,7 @@ meat; then put there in a little Saffron and clap on the top and roſ<gap reason
                   </p>
                </div>
                <div type="remedy">
-                  <pb n="79" facs="tcp:039461_0046_10185C38290C4D00"/>
+                  <pb n="79" facs="unknown:039461_0046_10185C38290C4D00"/>
                   <head>For Fatneſs about the Heart.</head>
                   <p>Take the Juice of Fennel and Ho<g ref="char:EOLhyphen"/>ney, of each alike, boil them till they be hard, then eat thereof firſt &amp; laſt, and be whole.</p>
                </div>
@@ -2126,7 +2126,7 @@ meat; then put there in a little Saffron and clap on the top and roſ<gap reason
                      </gap> of each a little quantity <gap reason="illegible" resp="#AELD" extent="1 span">
                         <desc>〈…〉</desc>
                      </gap>
-                     <pb n="80" facs="tcp:039461_0048_10185C50D6D93670"/>
+                     <pb n="80" facs="unknown:039461_0048_10185C50D6D93670"/>
 a Sawcer, and when they are well in<g ref="char:EOLhyphen"/>corporated, ſpread it on a Linnen Cloth, and lay it on the Piles warm, Morning and Evening, and in 4 days he ſhall be whole.</p>
                </div>
                <div type="remedy">
@@ -2167,7 +2167,7 @@ a Sawcer, and when they are well in<g ref="char:EOLhyphen"/>corporated, ſpread 
                </div>
             </div>
             <div type="malady">
-               <pb n="81" facs="tcp:039461_0048_10185C50D6D93670"/>
+               <pb n="81" facs="unknown:039461_0048_10185C50D6D93670"/>
                <head>Hicket, or Yelking</head>
                <div type="remedy">
                   <head>For the Hicket.</head>
@@ -2207,7 +2207,7 @@ a Sawcer, and when they are well in<g ref="char:EOLhyphen"/>corporated, ſpread 
                      </gap> Juice of Primroſe <gap reason="illegible" resp="#AELD" extent="1 span">
                         <desc>〈…〉</desc>
                      </gap>
-                     <pb facs="tcp:039461_0037_1015BB179F404E20"/>
+                     <pb facs="unknown:039461_0037_1015BB179F404E20"/>
 boil them in white Wine, and gargle it in the mouth.</p>
                </div>
                <div type="remedy">
@@ -2244,7 +2244,7 @@ boil them in white Wine, and gargle it in the mouth.</p>
                      </gap> over eat themſelves; <gap reason="illegible" resp="#AELD" extent="1 span">
                         <desc>〈…〉</desc>
                      </gap> Lemons, Rice, white
-<pb facs="tcp:039461_0037_1015BB179F404E20"/>
+<pb facs="unknown:039461_0037_1015BB179F404E20"/>
 Wine mixe<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap> 
@@ -2314,39 +2314,39 @@ Wine mixe<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <gap reason="missing" extent="1+ pages">
                      <desc>〈1… pages missing〉</desc>
                   </gap>
-                  <pb facs="tcp:039461_0039_1015BB1F9E58C898"/>
+                  <pb facs="unknown:039461_0039_1015BB1F9E58C898"/>
                   <gap reason="duplicate" extent="1 page">
                      <desc>〈1 page duplicate〉</desc>
                   </gap>
-                  <pb facs="tcp:039461_0039_1015BB1F9E58C898"/>
+                  <pb facs="unknown:039461_0039_1015BB1F9E58C898"/>
                   <gap reason="illegible" extent="1 page">
                      <desc>〈1 page〉</desc>
                   </gap>
-                  <pb facs="tcp:039461_0041_1015C07D17512D60"/>
+                  <pb facs="unknown:039461_0041_1015C07D17512D60"/>
                   <gap reason="duplicate" extent="1 page">
                      <desc>〈1 page duplicate〉</desc>
                   </gap>
-                  <pb facs="tcp:039461_0041_1015C07D17512D60"/>
+                  <pb facs="unknown:039461_0041_1015C07D17512D60"/>
                   <gap reason="illegible" extent="1 page">
                      <desc>〈1 page〉</desc>
                   </gap>
-                  <pb facs="tcp:039461_0043_1015C084EA6608D0"/>
+                  <pb facs="unknown:039461_0043_1015C084EA6608D0"/>
                   <gap reason="duplicate" extent="1 page">
                      <desc>〈1 page duplicate〉</desc>
                   </gap>
-                  <pb facs="tcp:039461_0043_1015C084EA6608D0"/>
+                  <pb facs="unknown:039461_0043_1015C084EA6608D0"/>
                   <gap reason="illegible" extent="1 page">
                      <desc>〈1 page〉</desc>
                   </gap>
-                  <pb facs="tcp:039461_0045_10185C3B9682E8B0"/>
+                  <pb facs="unknown:039461_0045_10185C3B9682E8B0"/>
                   <gap reason="duplicate" extent="1 page">
                      <desc>〈1 page duplicate〉</desc>
                   </gap>
-                  <pb facs="tcp:039461_0045_10185C3B9682E8B0"/>
+                  <pb facs="unknown:039461_0045_10185C3B9682E8B0"/>
                   <gap reason="illegible" extent="1 page">
                      <desc>〈1 page〉</desc>
                   </gap>
-                  <pb facs="tcp:039461_0047_10185C42E8645118"/>
+                  <pb facs="unknown:039461_0047_10185C42E8645118"/>
                </div>
             </div>
          </div>
